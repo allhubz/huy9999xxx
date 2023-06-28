@@ -13,7 +13,7 @@ Tab:AddParagraph("# Admin | 9999xyz"," ")
 Tab:AddParagraph("# Developer | Leoxion"," ")
 
 
-Tab:AddParagraph("# Discord ","        !")
+Tab:AddParagraph("# Hub | 52 ","        ")
 
 Tab:AddColorpicker({
 	Name = "Color Change",
@@ -22,6 +22,7 @@ Tab:AddColorpicker({
 		print(Value)
 	end	  
 })
+
 
 ---main
 local Tab = Window:MakeTab({
