@@ -1,7 +1,7 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/huy9999xxx/huy9999xxx/main/hub')))()
 local Window = OrionLib:MakeWindow({Name = "All - Hub | Version 1", HidePremium = false, SaveConfig = true, ConfigFolder = "All - Hub"})
 	
---credit
+---credit
 local Tab = Window:MakeTab({
 	Name = "Credit",
 	Icon = "rbxassetid://4483345998",
